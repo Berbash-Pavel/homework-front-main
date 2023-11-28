@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "//berbash-pavel.github.io/homework-front-main/static/css/main.073c9b0a.css",
-    "main.js": "//berbash-pavel.github.io/homework-front-main/static/js/main.3845cdee.js",
+    "main.js": "//berbash-pavel.github.io/homework-front-main/static/js/main.cbc91381.js",
     "static/js/787.c1fe8095.chunk.js": "//berbash-pavel.github.io/homework-front-main/static/js/787.c1fe8095.chunk.js",
     "index.html": "//berbash-pavel.github.io/homework-front-main/index.html",
     "main.073c9b0a.css.map": "//berbash-pavel.github.io/homework-front-main/static/css/main.073c9b0a.css.map",
-    "main.3845cdee.js.map": "//berbash-pavel.github.io/homework-front-main/static/js/main.3845cdee.js.map",
+    "main.cbc91381.js.map": "//berbash-pavel.github.io/homework-front-main/static/js/main.cbc91381.js.map",
     "787.c1fe8095.chunk.js.map": "//berbash-pavel.github.io/homework-front-main/static/js/787.c1fe8095.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3845cdee.js"
+    "static/js/main.cbc91381.js"
   ]
 }
